@@ -1,0 +1,2 @@
+# Lovin-Lamb
+Concluded a case study spearheading a team of four on a restaurant in Burwood called 'Lovin Lamb'. Results showed that sales targets were not reaching its potential due to lack of a free flowing business model. Conducted weekly meetings with the stakeholders to understand there requirements and needs, while also developed a new high-level system with structured business processes, resulting in an increase in revenue and a decrease in expenses for its stakeholders. This lead to profit maximisation in its first three months of implementation of the new system.
